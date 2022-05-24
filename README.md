@@ -5,7 +5,7 @@
     <a href="https://deleolayinka.github.io/Data-Science-Portfolio/"><img src="https://readme-typing-svg.herokuapp.com?font=Trebuchet+MS&size=30&color=008080&center=true&vCenter=true&width=500&lines=I+am+Moses+Olayinka+Oyedele;A+Data+Scientist;Full-Stack+Python+Developer;Data+Analyst;Business+Intelligence+Specialist;Data+Literacy+Advocate" alt="Data Scientist, Full-Stack Python Developer"></a>
 </div> 
  
-   <h2 align="center">Hello explorer, I am Olayinka! 👋</h2>
+   <h2 align="center">Hello explorer, welcome to my world! 👋</h2>
    <p align="center">
      <img src="https://gpvc.arturio.dev/deleolayinka">
      </p>
