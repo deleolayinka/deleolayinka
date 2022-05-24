@@ -103,6 +103,8 @@
     
   - Aston University, 2023
     - Master of Science, Data Analytics (In View)
+  - Udacity, 2021
+    - [Nanodegree, Programming for Data Science with Python](https://confirm.udacity.com/CGNEAKXR)
   - University of Ilorin, 2018
     - [Master of Science, Statistics (Distinction)](https://drive.google.com/file/d/1e_qhxw2ky8IwN8sV9OCjcW7hnrf8Tj5h/view?usp=sharing)
   - University of Ilorin, 2014
