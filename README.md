@@ -1,5 +1,5 @@
 <div id="top"></div>
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="Profile.jpeg"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="Profile.jpg"></div>
 
 <div align="center">
     <a href="https://deleolayinka.github.io/Data-Science-Portfolio/"><img src="https://readme-typing-svg.herokuapp.com?font=Trebuchet+MS&size=30&color=008080&center=true&vCenter=true&width=500&lines=I+am+Moses+Olayinka+Oyedele;A+Data+Scientist;Full-Stack+Python+Developer;Data+Analyst;Business+Intelligence+Specialist;Data+Literacy+Advocate" alt="Data Scientist, Full-Stack Python Developer"></a>
@@ -87,7 +87,7 @@
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">   </a>
     
     
-### :chart_with_upwards_trend: Github Profile Stats
+## :chart_with_upwards_trend: Github Profile Stats
   <br/>
     <a href="#"><img alt="Olayinka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deleolayinka&show_icons=true&theme=radical" height="192px"/></a>
   <a href="#"><img alt="Olayinka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deleolayinka&layout=compact&theme=radical" height="192px"/></a>
