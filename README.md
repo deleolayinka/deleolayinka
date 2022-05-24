@@ -4,22 +4,34 @@
 <div align="center">
     <a href="https://deleolayinka.github.io/Data-Science-Portfolio/"><img src="https://readme-typing-svg.herokuapp.com?font=Trebuchet+MS&size=30&color=008080&center=true&vCenter=true&width=500&lines=I+am+Moses+Olayinka+Oyedele;A+Data+Scientist;Full-Stack+Python+Developer;Data+Analyst;Business+Intelligence+Specialist;Data+Literacy+Advocate" alt="Data Scientist, Full-Stack Python Developer"></a>
 </div> 
- 
-   <h2 align="center">Hello explorer, welcome to my world! 👋</h2>
+
+---
+   <h2 align="center">Hello explorer, welcome to my world! <img src="Wave.gif" width="50px"></img> </h2>
    <p align="center">
      <img src="https://gpvc.arturio.dev/deleolayinka">
      </p>
-   
-## <img src="Wave.gif" width="50px"></img> Introduction
 
-- :name_badge: My full name is **Moses Olayinka Oyedele**.
-- :alien: I am passionate about **Data Science**, **Machine Learning** and **Full-Stack Python Development**.
-- :writing_hand: I post data analytics research articles on my <a href="https://moyedele.medium.com/"> Blog </a>.
-- :older_man: I have six (6) + years of experience in Data Science, Machine Learning, and Backend development with Python's Django, and Flask.
-- :medal_military: I am proficient in programming with Python, R, and SQL.
-- :octocat: I have completed many projects which you'll find in my <a href="https://deleolayinka.github.io/Data-Science-Portfolio/"> Portofolio </a> and <a href="https://github.com/deleolayinka"> Git profile </a>.
-- :game_die: Hobbies: I love Chess and Puzzles, Football, Yoga, and Coding.
-  
+---
+
+## :gift_heart: Introduction
+
+- :name_badge: My full name is **Moses Olayinka Oyedele**
+- :alien: I am passionate about **Data Science**, **Machine Learning**, and **Full-Stack Python Development**
+- :writing_hand: I post data analytics research articles on my <a href="https://moyedele.medium.com/">Blog</a>
+- :older_man: I have six (6) + years of experience in Data Science, Machine Learning, and Backend development with Python's Django, and Flask
+- :medal_military: I am proficient in programming with Python, R, and SQL
+- :octocat: I have completed many projects which you'll find in my <a href="https://deleolayinka.github.io/Data-Science-Portfolio/"> Portofolio </a> and <a href="https://github.com/deleolayinka">Git profile</a>
+- :game_die: Hobbies: I love Chess, Puzzles, Football, Yoga, and Coding
+
+---
+
+## :writing_hand: Top Blog Posts
+
+  - [Explorative Study of Unemployment Durations in Nigeria](https://moyedele.medium.com/explorative-study-of-duration-of-unemployment-in-nigeria-ab53d34b9d7b)
+  - [The Statistical Analysis of Data on Hypertensive Patients](https://moyedele.medium.com/the-statistical-analysis-of-data-on-hypertensive-patients-79a542d7b12b)
+
+---
+
 ## :gem: My Technology Stack
 
 ### :computer: Programming Languages
@@ -36,7 +48,6 @@
   <a href="#"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE.svg?logo=PowerShell&logoColor=white"></a>
   <a href="#"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8.svg?logo=Mathworks&logoColor=white"></a>
   <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
-   
    
 ### :briefcase: Frameworks and Libraries
 
@@ -85,12 +96,25 @@
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-302E31?logo=sublime-text&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">   </a>
+
+---
+
+## :mortar_board: My Academic Qualifications
     
+  - Aston University, 2023
+    - Master of Science, Data Analytics (In View)
+  - University of Ilorin, 2018
+    - [Master of Science, Statistics (Distinction)](https://drive.google.com/file/d/1e_qhxw2ky8IwN8sV9OCjcW7hnrf8Tj5h/view?usp=sharing)
+  - University of Ilorin, 2014
+    - [Bachelor of Science, Statistics (First Class Honours)](https://drive.google.com/file/d/1E0HC2sypUwKR_ikFwRzPaN9nfsT9a8TE/view?usp=sharing) 
+---
     
 ## :chart_with_upwards_trend: Github Profile Stats
   <br/>
     <a href="#"><img alt="Olayinka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deleolayinka&show_icons=true&theme=radical" height="192px"/></a>
   <a href="#"><img alt="Olayinka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deleolayinka&layout=compact&theme=radical" height="192px"/></a>
   <br/>
-  <b>Note:</b> Top languages is not a representation of my programming experience or skill level, it is only a metric for the languages currently existing on my public profile
+  <b>NB:</b> Most used languages is not a representation of my programming experience or skill level, it is only a metric for the languages currently existing on my public profile
 </p>
+
+---
