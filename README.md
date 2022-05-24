@@ -37,25 +37,26 @@
 ### :computer: Programming Languages
 
 <p>   
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-  <a href="#"><img alt="R" src="https://img.shields.io/badge/R%20-%2314354C.svg?logo=R&logoColor=white"></a>
-  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-3776AB.svg?logo=python&logoColor=white"></a>
+  <a href="#"><img alt="R" src="https://img.shields.io/badge/R%20-276DC3.svg?logo=R&logoColor=white"></a>
+  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-4053D6.svg?logo=amazon-dynamodb&logoColor=white"></a>
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap"></a>
+  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
   <a href="#"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C.svg?logo=C%2B%2B&logoColor=white"></a>
-  <a href="#"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE.svg?logo=PowerShell&logoColor=white"></a>
+  <a href="#"><img alt="shell" src="https://img.shields.io/badge/-PowerShell-5391FE.svg?logo=PowerShell&logoColor=white"></a>
   <a href="#"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8.svg?logo=Mathworks&logoColor=white"></a>
   <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
    
 ### :briefcase: Frameworks and Libraries
 
 <p>
-  <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/conda-342B029.svg?logo=anaconda&logoColor=white"></a>
+  <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-342B029.svg?logo=anaconda&logoColor=white"></a>
   <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+  <a href="#"><img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn%20-F7931E.svg?logo=scikitlearn&logoColor=white"></a>
   <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
   <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
   <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0.svg?logo=docker&logoColor=white"></a>
@@ -71,7 +72,7 @@
 <p>
    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
-   <a href="#"><img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-%2300f.svg?logo=sqlserver&logoColor=white"></a>
+   <a href="#"><img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-CC2927.svg?logo=microsoft-sql-server&logoColor=#CC2927"></a>
    <a href="#"><img alt="postgresql" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E.svg?logo=sqlite&logoColor=white"></a>
    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
@@ -84,10 +85,10 @@
 ### :space_invader: Software and Tools
 
 <p>
-  <a href="#"><img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?logo=Power%20BI&logoColor=white"></a>
-  <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-FFFFFF?logo=Tableau&logoColor=blue"></a>
+  <a href="#"><img alt="PowerBI" src="https://img.shields.io/badge/Power_BI-F2C811?logo=Power%20BI&logoColor=white"></a>
+  <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-FFFFFF?logo=Tableau&logoColor=#E97627"></a>
   <a href="#"><img alt="Atom" src="https://img.shields.io/badge/Atom-3DDC84?logo=atom&logoColor=white"></a>
-  <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
+  <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_Chrome-4285F4?logo=google-chrome&logoColor=white"></a>
   <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
