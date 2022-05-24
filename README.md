@@ -2,7 +2,7 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/deleolayinka/deleolayinka/blob/main/images/header.png"></div>
 
 <div align="center">
-    <a href="https://deleolayinka.github.io/Data-Science-Portfolio/"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=I'm+Moses+Olayinka+Oyedele;A+Full-Stack+Data+Scientist;Python+Developer;Data+Analyst;Business+Intelligence+Specialist;Data+Literacy+Advocate" alt="Full-Stack Data Scientist, Python Developer"></a>
+    <a href="https://deleolayinka.github.io/Data-Science-Portfolio/"><img src="https://readme-typing-svg.herokuapp.com?font=Trebuchet+MS&size=30&color=008080&center=true&vCenter=true&width=500&lines=I+am+Moses+Olayinka+Oyedele;A+Data+Scientist;Full-Stack+Python+Developer;Data+Analyst;Business+Intelligence+Specialist;Data+Literacy+Advocate" alt="Data Scientist, Full-Stack Python Developer"></a>
 </div> 
  
    <h2 align="center">Hello explorer, I am Olayinka! 👋</h2>
@@ -12,17 +12,17 @@
    
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> Introduction
 
-- :credit_card: My full name is **Moses Olayinka Oyedele**
-- :school: I am a passionate **Full-Stack Data Scientist** and **Python Developer**
-- :books: I write data on my  <a href="https://moyedele.medium.com/"> Blog </a>.
-- :earth_asia: I have six (6) + years of experience in Data Science, Machine Learning, and Backend development with Python's Django and Flask.
-- :monocle_face: I am proficient in programming with Python, R, and SQL.
-- :sunglasses: I have completed many projects which you'll find in my <a href="https://deleolayinka.github.io/Data-Science-Portfolio/"> Portofolio </a> and <a href="https://github.com/deleolayinka"> Git profile </a>.
-- :ok_hand: Hobbies: I love Chess and Puzzles, Football, Yoga, and Coding.
+- :name_badge: My full name is **Moses Olayinka Oyedele**.
+- :alien: I am passionate about **Data Science**, **Machine Learning** and **Full-Stack Python Development**.
+- :writing_hand: I post data analytics research articles on my <a href="https://moyedele.medium.com/"> Blog </a>.
+- :older_man: I have six (6) + years of experience in Data Science, Machine Learning, and Backend development with Python's Django, and Flask.
+- :medal_military: I am proficient in programming with Python, R, and SQL.
+- :octocat: I have completed many projects which you'll find in my <a href="https://deleolayinka.github.io/Data-Science-Portfolio/"> Portofolio </a> and <a href="https://github.com/deleolayinka"> Git profile </a>.
+- :game_die: Hobbies: I love Chess and Puzzles, Football, Yoga, and Coding.
   
-## 🛠️ My Technology Stack
+## :gem: My Technology Stack
 
-### 👨‍💻 Programming Languages
+### :computer: Programming Languages
 
 <p>   
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
@@ -38,7 +38,7 @@
   <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
    
    
-### 🧰 Frameworks and Libraries
+### :briefcase: Frameworks and Libraries
 
 <p>
   <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/conda-342B029.svg?logo=anaconda&logoColor=white"></a>
@@ -70,7 +70,7 @@
    <a href="#"><img alt="Netlify" src ="https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=white"></a>
 </p>
 
-### 💻 Software and Tools
+### :space_invader: Software and Tools
 
 <p>
   <a href="#"><img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?logo=Power%20BI&logoColor=white"></a>
@@ -87,10 +87,10 @@
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">   </a>
     
     
-### 💻 Github Profile Stats
+### :chart_with_upwards_trend: Github Profile Stats
   <br/>
-    <a href="#"><img alt="Olayinka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deleolayinka&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="#"><img alt="Olayinka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deleolayinka&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+    <a href="#"><img alt="Olayinka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deleolayinka&show_icons=true&theme=radical" height="192px"/></a>
+  <a href="#"><img alt="Olayinka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deleolayinka&layout=compact&theme=radical" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is not a representation of my programming experience or skill level, it is only a metric for the languages currently existing on my public profile
 </p>
