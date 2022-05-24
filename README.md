@@ -13,7 +13,7 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> Introduction
 
 - :credit_card: My full name is **Moses Olayinka Oyedele**
-- :school: I'm a passionate **Full-Stack Data Scientist** and *Python Developer*
+- :school: I'm a passionate **Full-Stack Data Scientist** and **Python Developer**
 - :books: I also write tech stuffs on my  <a href="https://moyedele.medium.com/"> Blog </a>.
 - :earth_asia: I have six (6) + years of experience in Data Science, Machine Learning, and Backend development with Python's Django and Flask.
 - :monocle_face: I'm proficient in programming with Python, R, and SQL.
