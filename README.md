@@ -5,7 +5,7 @@
     <a href="https://deleolayinka.github.io/Data-Science-Portfolio/"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=I'm+Moses+Olayinka+Oyedele;A+Full-Stack+Data+Scientist;Python+Developer;Data+Analyst;Business+Intelligence+Specialist;Data+Literacy+Advocate" alt="Full-Stack Data Scientist, Python Developer"></a>
 </div> 
  
-   <h2 align="center">Hello Explorer, I am Olayinka! 👋</h2>
+   <h2 align="center">Hello explorer, I am Olayinka! 👋</h2>
    <p align="center">
      <img src="https://gpvc.arturio.dev/deleolayinka">
      </p>
@@ -13,12 +13,12 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> Introduction
 
 - :credit_card: My full name is **Moses Olayinka Oyedele**
-- :school: I'm a passionate **Full-Stack Data Scientist** and **Python Developer**
-- :books: I also write tech stuffs on my  <a href="https://moyedele.medium.com/"> Blog </a>.
+- :school: I am a passionate **Full-Stack Data Scientist** and **Python Developer**
+- :books: I write data on my  <a href="https://moyedele.medium.com/"> Blog </a>.
 - :earth_asia: I have six (6) + years of experience in Data Science, Machine Learning, and Backend development with Python's Django and Flask.
-- :monocle_face: I'm proficient in programming with Python, R, and SQL.
-- :sunglasses: I've completed many projects which you'll find in my <a href="https://deleolayinka.github.io/Data-Science-Portfolio/"> Portofolio </a> and <a href="https://github.com/deleolayinka"> Git profile </a>.
-- :ok_hand: Hobbies: I love :point_right: Chess and Puzzles, Football, Yoga, and Coding.
+- :monocle_face: I am proficient in programming with Python, R, and SQL.
+- :sunglasses: I have completed many projects which you'll find in my <a href="https://deleolayinka.github.io/Data-Science-Portfolio/"> Portofolio </a> and <a href="https://github.com/deleolayinka"> Git profile </a>.
+- :ok_hand: Hobbies: I love Chess and Puzzles, Football, Yoga, and Coding.
   
 ## 🛠️ My Technology Stack
 
