@@ -101,14 +101,21 @@
 
 ## :mortar_board: My Academic Qualifications
     
-  - Aston University, 2023
+### :scroll: Degrees
+    
+  - Aston University, 2023 (:uk:)
     - Master of Science, Data Analytics (In View)
-  - Udacity, 2021
-    - [Nanodegree, Programming for Data Science with Python](https://confirm.udacity.com/CGNEAKXR)
-  - University of Ilorin, 2018
+  - University of Ilorin, 2018 (:nigeria:)
     - [Master of Science, Statistics (Distinction)](https://drive.google.com/file/d/1e_qhxw2ky8IwN8sV9OCjcW7hnrf8Tj5h/view?usp=sharing)
-  - University of Ilorin, 2014
+  - University of Ilorin, 2014 (:nigeria:)
     - [Bachelor of Science, Statistics (First Class Honours)](https://drive.google.com/file/d/1E0HC2sypUwKR_ikFwRzPaN9nfsT9a8TE/view?usp=sharing) 
+    
+### :scroll: Professional Certifications
+    
+  - Chartered Management Institute (CMI), 2022 (:uk:)
+    - Level 7 Award in Strategic Management and Leadership Practice (In View)
+  - Udacity, 2021 (:us:)
+    - [Nanodegree, Programming for Data Science with Python](https://confirm.udacity.com/CGNEAKXR)
 ---
     
 ## :chart_with_upwards_trend: Github Profile Stats
