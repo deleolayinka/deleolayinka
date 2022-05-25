@@ -2,7 +2,7 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="Profile.jpg"></div>
 
 <div align="center">
-    <a href="https://deleolayinka.github.io/Data-Science-Portfolio/"><img src="https://readme-typing-svg.herokuapp.com?font=Trebuchet+MS&size=30&color=008080&center=true&vCenter=true&width=500&lines=I+am+Moses+Olayinka+Oyedele;A+Data+Scientist;Full-Stack+Python+Developer;Data+Analyst;Business+Intelligence+Specialist;Data+Literacy+Advocate" alt="Data Scientist, Full-Stack Python Developer"></a>
+    <a href="https://deleolayinka.github.io/Data-Science-Portfolio/"><img src="https://readme-typing-svg.herokuapp.com?font=Trebuchet+MS&size=30&color=008080&center=true&vCenter=true&width=500&lines=I+am+Moses+Olayinka+Oyedele;A+Data+Scientist,;Full-Stack+Python+Developer,;Data+Analyst,;Business+Intelligence+Specialist,;and+Data+Literacy+Advocate" alt="Data Scientist, Full-Stack Python Developer"></a>
 </div> 
 
 ---
@@ -17,11 +17,11 @@
 
 - :name_badge: My full name is **Moses Olayinka Oyedele**
 - :alien: I am passionate about **Data Science**, **Machine Learning**, and **Full-Stack Python Development**
-- :writing_hand: I post data analytics research articles on my <a href="https://moyedele.medium.com/">Blog</a>
+- :writing_hand: I post data analytics research articles on my <a href="https://moyedele.medium.com/" target="_blank" rel="noopener noreferrer">Blog</a>
 - :older_man: I have six (6) + years of experience in Data Science, Machine Learning, and Backend development with Python's Django, and Flask
 - :medal_military: I am proficient in programming with Python, R, and SQL
-- :octocat: I have completed many projects which you'll find in my <a href="https://deleolayinka.github.io/Data-Science-Portfolio/"> Portofolio </a> and <a href="https://github.com/deleolayinka">Git profile</a>
-- :game_die: Hobbies: I love Chess, Puzzles, Football, Yoga, and Coding
+- :octocat: I have completed many projects which you'll find in my <a href="https://deleolayinka.github.io/Data-Science-Portfolio/" target="_blank" rel="noopener noreferrer"> Portfolio </a> and <a href="https://github.com/deleolayinka" target="_blank" rel="noopener noreferrer">Git profile</a>
+- :game_die: I love Chess, Puzzles, Football, Yoga, and Coding
 
 ---
 
@@ -120,11 +120,11 @@
 ---
     
 ## :chart_with_upwards_trend: Github Profile Stats
-  <br/>
-    <a href="#"><img alt="Olayinka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deleolayinka&show_icons=true&theme=radical" height="192px"/></a>
+
+  <a href="#"><img alt="Olayinka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deleolayinka&show_icons=true&theme=radical" height="192px"/></a>
   <a href="#"><img alt="Olayinka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deleolayinka&layout=compact&theme=radical" height="192px"/></a>
-  <br/>
-  <b>NB:</b> Most used languages is not a representation of my programming experience or skill level, it is only a metric for the languages currently existing on my public profile
+ 
+  <b>NB:</b> Most used languages is not a representation of my programming experience or skill level, it is only a metric for the languages currently existing on my public profile.
 </p>
 
 ---
