@@ -6,11 +6,12 @@
 </div> 
 
 ---
-   <h2 align="center">Hello explorer, welcome to my world! <img src="Wave.gif" width="50px"></img> </h2>
+
+   <h2 align="center">Hello explorer, welcome to my world! 👋<img src=":wave:" width="50px"></img> </h2>
    <p align="center">
      <img src="https://gpvc.arturio.dev/deleolayinka">
      </p>
-
+     
 ---
 
 ## :gift_heart: Introduction
@@ -126,5 +127,13 @@
  
   <b>NB:</b> Most used languages is not a representation of my programming experience or skill level, it is only a metric for the languages currently existing on my public profile.
 </p>
+
+---
+
+## :link: Connect with me
+
+<a href="https://www.linkedin.com/in/moyedele/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Connect with me @moyedele" height="30" width="40" /></a>
+<a href="https://twitter.com/MrOlayinka_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Follow me @MrOlayinka_" height="30" width="40" /></a>
+<a href="https://instagram.com/mr.olayinka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Follow me @mr.olayinka" height="30" width="40" /></a>
 
 ---
