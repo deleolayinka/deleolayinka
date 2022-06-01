@@ -7,7 +7,7 @@
 
 ---
 
-   <h2 align="center">Hello explorer, welcome to my world! 👋<img src=":wave:" width="50px"></img> </h2>
+   <h2 align="center">Hello explorer, welcome to my world! 👋<img src="Wave.gif" width="50px"></img> </h2>
    <p align="center">
      <img src="https://gpvc.arturio.dev/deleolayinka">
      </p>
