@@ -98,6 +98,7 @@
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-302E31?logo=sublime-text&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">   </a>
+</p>
 
 ---
 
@@ -122,11 +123,14 @@
     
 ## :chart_with_upwards_trend: Github Profile Stats
 
+<p align="center" >
   <a href="#"><img alt="Olayinka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deleolayinka&show_icons=true&theme=radical" height="192px"/></a>
   <a href="#"><img alt="Olayinka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deleolayinka&layout=compact&theme=radical" height="192px"/></a>
  
-  <b>NB:</b> Most used languages is not a representation of my programming experience or skill level, it is only a metric for the languages currently existing on my public profile.
-</p>
+  <b align="center" >NB:</b> Most used languages is not a representation of my programming experience or skill level, it is only a metric for the languages currently existing on my public profile.
+ 
+<p align="center" >
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=deleolayinka&theme=darcula&hide_border=true&background=FFFFFF00">
 
 ---
 
