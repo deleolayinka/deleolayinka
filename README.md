@@ -123,13 +123,13 @@
     
 ## :chart_with_upwards_trend: Github Profile Stats
 
-<p align="center" >
+<p>
   <a href="#"><img alt="Olayinka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deleolayinka&show_icons=true&theme=radical" height="192px"/></a>
   <a href="#"><img alt="Olayinka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deleolayinka&layout=compact&theme=radical" height="192px"/></a>
  
 <b> NB: Most used languages </b> is not a representation of my programming experience or skill level, it is only a metric for the languages currently existing on my public profile.
  
-<p align="center" >
+<p>
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=deleolayinka&theme=vision-friendly-dark&hide_border=true&background=FFFFFF00">
     
 ---
