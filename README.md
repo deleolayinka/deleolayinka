@@ -130,7 +130,7 @@
   <b align="center" >NB:</b> Most used languages is not a representation of my programming experience or skill level, it is only a metric for the languages currently existing on my public profile.
  
 <p align="center" >
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=deleolayinka&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=deleolayinka&theme=vision-friendly-dark&hide_border=true&background=FFFFFF00">
 
 ---
 
